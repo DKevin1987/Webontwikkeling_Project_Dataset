@@ -1,0 +1,318 @@
+[
+    {
+        "id" : "MOVIE-1",
+        "name" : "Harry Potter en de Steen der Wijzen",
+        "description" : "De jonge Harry Potter woont na de dood van zijn ouders bij zijn oom en tante, waar hij slecht wordt behandeld en voortdurend de pesterijen van zijn verwende neefje moet ondergaan. Op zijn elfde verjaardag verneemt Harry dat zijn ouders machtige tovenaars waren en dat ook hij unieke magische krachten heeft.",
+        "releaseYear" : 2001,
+        "playtime" : 152,
+        "budget": "125 miljoen $",
+        "childFriendly" : false,
+        "imageUrl" : "xxx",
+        "immageSource" : "https://media.s-bol.com/7VPxZgJglPwG/y137w/844x1200.jpg",
+        "cast" : [	"Daniel Radcliffe", "Emma Watson", "Rupert Grint", "John Cleese", "Robbie Coltrane", "Warwick Davis", "Richard Griffiths",
+                    "Richard Harris", "Ian Hart", "John Hurt", "Alan Rickman", "Fiona Shaw", "Maggie Smith", "Julie Walters"],
+        "genre" : [ "fantasie" , "adventure" , "Familie"],
+        "awards" : "3 oscar nominaties",
+        "writers" : ["J.K. Rowling" , "Steve Kloves"],
+        "director" : 
+        {
+            "id" : "DIR-1",
+            "name" : "Christopher Joseph Columbus",
+            "birthday" : "1958-09-10",
+            "country" : "Verenigde Staten",
+            "school" : "Warren JFK High School",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://i.namu.wiki/i/51eHyBKzuIHwgFLoTAGz5TWk5zGfRbabhJ2Cz6cV7zPJnqg9e5LknKNs3yVftuSsniCg1YvdBiQ7JLc91KF2WZQkeM0FI16rEhr75D5rcAxkGVv3RgzoLuPMQTVDqn0QwV9aIZq0FRh21dot6guxhQ.webp",
+            "trivia" : "Productiemaatschappij heet 1492 Productions. Is ook producent en scenarioschrijver."
+        }
+    },
+    {
+        "id" : "MOVIE-2",
+        "name" : "The Matrix",
+        "description" : "Computerhacker Thomas A. Anderson komt op een vreemde manier in contact met Morpheus. Hij leidt Thomas binnen in de `echte', maar ongekende wereld. De wereld die we kennen is volgens Morpheus een virtuele wereld, de Matrix genaamd.",
+        "releaseYear" : 1999,
+        "playtime" : 136,
+        "budget": "63 miljoen $",
+        "childFriendly" : false,
+        "imageUrl" : "xxx",
+        "immageSource" : "https://m.media-amazon.com/images/I/613ypTLZHsL._AC_SL1000_.jpg",
+        "cast" : ["Keanu Reeves" , "Laurence Fishburne" , "Carrie-Anne Moss" , "Hugo Weaving" , "Gloria Foster"],
+        "genre" : ["actie" , "siencefiction"],
+        "awards" : "4 Academy Awards, 2 BAFTA's en Satum Awards",
+        "writers" : ["Lana Wachowski", "Lilly Wachowski"],
+        "director" : 
+        [{
+            "id" : "DIR-2",
+            "name" : "Lana Wachowski",
+            "birthday" : "1965-05-21",
+            "country" : "Verenigde Staten",
+            "school" : "Bard College ",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://resizing.flixster.com/9m-tL3iJEjIV7QXungGlZP2tA34=/218x280/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/150673_v9_ba.jpg",
+            "trivia" : "Geboren als Laurence Wachowski. Andere bekende films zijn Assassins, Bound, V for Vendetta."
+        },
+        {
+            "id" : "DIR-3",
+            "name" : "Lilly Wachowski",
+            "birthday" : "1967-12-29",
+            "country" : "Verenigde Staten",
+            "school" : "Emerson College",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://ntvb.tmsimg.com/assets/assets/150670_v9_bb.jpg?w=360&h=480",
+            "trivia" : "Geboren als Andrew Wachowski. Andere bekende films zijn Assassins, Bound, V for Vendetta."
+        }]
+    },
+    {
+        "id" : "MOVIE-3",
+        "name" : "Night at the Museum",
+        "description" : "xIn het museum waar hij werkt, doet nachtwaker Larry Daley een wel heel bijzondere ontdekking. Tijdens zijn diensten gebeuren er vreemde dingen en wordt het hele museum op zijn kop gezet.x",
+        "releaseYear" : 2006,
+        "playtime" : 108,
+        "budget": "110 miljoen $",
+        "childFriendly" : true,
+        "imageUrl" : "xxx",
+        "immageSource" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Night_at_the_Museum_poster.jpg/250px-Night_at_the_Museum_poster.jpg",
+        "cast" : ["Ben Stiller" , "Robin Williams" , "Owen Wilson" ,"Dick Van Dyke" , "Mickey Rooney" ,"Bill Cobbs"],
+        "genre" : ["komedie"],
+        "awards" : "geen",
+        "writers" :["Ben Garant" , "Thomas Lennon"],
+        "director" : 
+        {
+            "id" : "DIR-4",
+            "name" : "Shawn Levy",
+            "birthday" : "1963-06-23",
+            "country" : "Canada",
+            "school" : "Yale-Universiteit",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Shawn_Levy_by_Gage_Skidmore_2.jpg/330px-Shawn_Levy_by_Gage_Skidmore_2.jpg",
+            "trivia" : "Is tevens ook acteur, filmproducent en scenarioschrijver."
+        }
+    },
+    {
+        "id" : "MOVIE-4",
+        "name" : "The Lion King",
+        "description" : "De leeuw Mufasa heerst over de Afrikaanse savanne. Wanneer zijn slechte broer hem verslaat, sterft Mufasa en vlucht kroonprins Simba, maar wordt gered door stokstaartje Timon en knobbelzwijn Pumbaa.",
+        "releaseYear" : 1994,
+        "playtime" : 89,
+        "budget": "45 miljoen $",
+        "childFriendly" : true,
+        "imageUrl" : "xxx",
+        "immageSource" : "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg",
+        "cast" : ["Matthew Broderick" , "Rowan Atkinson" , "Jeremy Irons" , "Jonathan Taylor Thomas" , "James Earl Jones" , "Moira Kelly" , "Nathan Lane" , "Robert Guillaume" , "Madge Sinclair" , "Whoopi Goldberg" , "Zoe Leader" , "Jim Cummings" , "Ernie Sabella"],
+        "genre" : ["animatie" , "Familie"],
+        "awards" : "29 nominaties en 36 prijzen gewonnen in totaal.",
+        "writers" :["Irene Mecchi" , "Jonathan Roberts" , "Linda Woolverton"],
+        "director" : 
+        [{
+            "id" : "DIR-5",
+            "name" : "Roger Allers",
+            "birthday" : "1949-06-29",
+            "country" : "Verenigde Staten",
+            "school" : "Arizona State University",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Roger_Allers%2C_34th_Annie_Awards%2C_2007.jpg/250px-Roger_Allers%2C_34th_Annie_Awards%2C_2007.jpg",
+            "trivia" : "Is tevens ook scenario schrijver, animator, storyboard artiest en playwright. Spijtig genoeg overleden op 2026-01-17."
+        },
+        {
+            "id" : "DIR-6",
+            "name" : "Rob Minkoff",
+            "birthday" : "1962,08,11",
+            "country" : "Verenigde Staten",
+            "school" : "California Institute of the Arts",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rob_Minkoff.jpg/250px-Rob_Minkoff.jpg",
+            "trivia" : "Is tevens ook film en televisie producent. Heeft ook een paar scenario's geschreven."
+        }]
+    },
+    
+    {
+        "id" : "MOVIE-5",
+        "name" : "Frozen",
+        "description" : "De dappere en optimistische Anna onderneemt samen met de ruige bergbewoner Kristoff en zijn trouwe rendier Sven een legendarisch avontuur om haar zus Elsa te vinden. Haar ijskrachten houden het koninkrijk Arendelle gevangen in een eeuwige winter.",
+        "releaseYear" : 2013,
+        "playtime" : 102,
+        "budget": "150 miljoen $",
+        "childFriendly" : true,
+        "imageUrl" : "xxx",
+        "immageSource" : "https://m.media-amazon.com/images/I/81agjwz2YNL._AC_SL1500_.jpg",
+        "cast" : ["Kristen Bell" , "Idina Menzel" , "Jonathan Groff" , "Josh Gad" , "Santino Fontana"],
+        "genre" : [ "animatie" , "adventure"],
+        "awards" : "2 oscar nominaties en 68 andere prijzen. ",
+        "writers" : ["Jennifer Lee"],
+        "director" : 
+        [{
+            "id" : "DIR-7",
+            "name" : "Jennifer Lee",
+            "birthday" : "1971-10-22",
+            "country" : "Verenigde Staten",
+            "school" : "University of New Hampshire",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jennifer_Lee.JPG/330px-Jennifer_Lee.JPG",
+            "trivia" : "Heeft gewerkt als  grafisch kunstenaar voor uitgeverij Random House."
+        },
+        {
+            "id" : "DIR-8",
+            "name" : "Chris Buck",
+            "birthday" : "1958-02-24",
+            "country" : "Verenigde Staten",
+            "school" : "CalArts",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Frozenfeverdirectors_%28cropped%29.JPG/250px-Frozenfeverdirectors_%28cropped%29.JPG",
+            "trivia" : "Is tevens ook scenario schrijver, animator en character disigner van verschillende films."
+        }]
+    },
+    {
+        "id" : "MOVIE-6",
+        "name" : "Kung Fu Panda",
+        "description" : "Po is een luie panda die er stiekem van droomt om een Kung Fu-meester te worden. Als de boosaardige Tai Lung ineens verschijnt, biedt dit hem wellicht toch een kans om zijn droom te verwezenlijken.",
+        "releaseYear" : 2008,
+        "playtime" : 92,
+        "budget": "130 miljoen $",
+        "childFriendly" : true,
+        "imageUrl" : "xxx",
+        "immageSource" : "https://m.media-amazon.com/images/I/81DnroHi02L._AC_SL1500_.jpg",
+        "cast" : ["Jack Black" , "Jackie Chan" , "Dustin Hoffman" , "Lucy Liu"],
+        "genre" : ["fantasie" , "animatie" , "Familie"],
+        "awards" : "11 gewonnen awards",
+        "writers" : ["Jonathan Aibel" , "Glenn Berger" , "Ethan Reiff" , "Cyrus Voris"],
+        "director" : 
+        [{
+            "id" : "DIR-9",
+            "name" : "Mark Osborne",
+            "birthday" : "1970-09-17",
+            "country" : "Verenigde Staten",
+            "school" : "California Institute of the Arts",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mark_Osborne_on_Dulce_Osuna.jpg/250px-Mark_Osborne_on_Dulce_Osuna.jpg",
+            "trivia" : "Is tevens ook filmproducent, scenarioschrijver en animator."
+        },
+        {
+            "id" : "DIR-10",
+            "name" : "John Stevenson",
+            "birthday" : "1958",
+            "country" : "Engeland",
+            "school" : "<UNKNOWN>",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/John_Stevenson_%28director%29_%28cropped%29.jpg/250px-John_Stevenson_%28director%29_%28cropped%29.jpg",
+            "trivia" : "Is tevens ook animator, art director, film director, motion capture performer, puppeteer, storyboard artiest en voice acteur."
+        }]
+    },
+    {
+        "id" : "MOVIE-7",
+        "name" : "The Beekeeper",
+        "description" : "De gepensioneerde staatsagent Adam Clay is een voormalig lid van de beruchte 'beekeepers', een machtige en clandestiene organisatie. Wanneer hij een politieke samenzwering ontdekt, houdt niets hem tegen in de strijd voor gerechtigheid.",
+        "releaseYear" : 2024,
+        "playtime" : 105,
+        "budget": "40 miljoen $",
+        "childFriendly" : false,
+        "imageUrl" : "xxx",
+        "immageSource" : "https://media.s-bol.com/9zyDN1OnvQp3/ER2y7kN/843x1200.jpg",
+        "cast" : ["Jason Statham" , "Emmy Raver-Lampman" , "Josh Hutcherson" , "Bobby Naderi" , "Minnie Driver" , "Phylicia Rashad" , "Jeremy Irons"],
+        "genre" : [ "fantasie" , "adventure" , "Familie"],
+        "awards" : "6 nominaties, 1 gewonnen.",
+        "writers" : ["Kurt Wimmer"],
+        "director" : 
+        {
+            "id" : "DIR-11",
+            "name" : "David Ayer",
+            "birthday" : "1968-01-18",
+            "country" : "Verenigde Staten",
+            "school" : "<UNKNOWN>",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/David_Ayer_by_Gage_Skidmore_2.jpg/250px-David_Ayer_by_Gage_Skidmore_2.jpg",
+            "trivia" : "Is tevens ook filmproducent en screenwriter. Heeft in navy gewerkt als sonar technieker op een duikboot."
+        }
+    },
+    {
+        "id" : "MOVIE-8",
+        "name" : "Suicide Squad",
+        "description" : "Meerdere superschurken worden bij elkaar gehaald om een mysterieuze vijand te vernietigen. Ondertussen is de Joker bezig met zijn eigen plannen.",
+        "releaseYear" : 2016,
+        "playtime" : 123,
+        "budget": "175 miljoen $",
+        "childFriendly" : false,
+        "imageUrl" : "xxx",
+        "immageSource" : "https://m.media-amazon.com/images/I/91FuWqGfU7L._AC_SL1500_.jpg",
+        "cast" : ["Will Smith" , "Jared Leto" , "Margot Robbie" , "Joel Kinnaman" , "Viola Davis" , "Jai Courtney" , "Jay Hernandez" , "Adewale Akinnuoye-Agbaje" , "Ike Barinholtz" , "Scott Eastwood" , "Cara Delevingne"],
+        "genre" : [ "fantasie" , "adventure" , "Familie"],
+        "awards" : "41 nominaties , 18 gewonnen ",
+        "writers" : ["David Ayer"],
+        "director" : 
+        {
+            "id" : "DIR-11",
+            "name" : "David Ayer",
+            "birthday" : "1968-01-18",
+            "country" : "Verenigde Staten",
+            "school" : "<UNKNOWN>",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/David_Ayer_by_Gage_Skidmore_2.jpg/250px-David_Ayer_by_Gage_Skidmore_2.jpg",
+            "trivia" : "Is tevens ook filmproducent en screenwriter. Heeft in navy gewerkt als sonar technieker op een duikboot."
+        }
+    },
+    {
+        "id" : "MOVIE-9",
+        "name" : "A Journal for Jordan",
+        "description" : "Sergeant Charles Monroe King houdt een dagboek bij voor zijn zoontje terwijl hij gestationeerd is in Irak. In het dagboek geeft hij zijn zoontje goede raad hoe op te groeien zonder vader.",
+        "releaseYear" : 2021,
+        "playtime" : 131,
+        "budget": "25 miljoen $",
+        "childFriendly" : false,
+        "imageUrl" : "xxx",
+        "immageSource" : "https://m.media-amazon.com/images/I/81UR9GkROJL._SL1500_.jpg",
+        "cast" : ["Michael B. Jordan" , "Chanté Adams"],
+        "genre" : [ "true story" , "romantis" , "drama"],
+        "awards" : "3 nominaties",
+        "writers" : ["Dana Canedy"],
+        "director" : 
+        {
+            "id" : "DIR-12",
+            "name" : "Denzel Washington",
+            "birthday" : "",
+            "country" : "Verenigde Staten",
+            "school" : "universiteit van Fordham",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Denzel_Washington_%2829479254650%29_%28cropped%29.jpg/330px-Denzel_Washington_%2829479254650%29_%28cropped%29.jpg",
+            "trivia" : "Is tevens ook acteur en filmproducent. Heeft meer dan 45 prijzen gewonnen. Was oo 2e zwarte acteur dat oscor won voor beste acteur in een hoofdrol."
+        }
+    },
+    {
+        "id" : "MOVIE-10",
+        "name" : "Stir Crazy",
+        "description" : "Met een ontsnapping uit de gevangenis die hen hun enige uitweg biedt, pijnigt een moedeloos duo hun hersens om een onfeilbaar plan te bedenken. Toevallig ontdekt een van hen een onverwacht talent als rodeorijder, en een ontsnappingsplan krijgt vorm.",
+        "releaseYear" : 1980,
+        "playtime" : 111,
+        "budget": "Onbekent $",
+        "childFriendly" : false,
+        "imageUrl" : "xxx",
+        "immageSource" : "https://m.media-amazon.com/images/I/91fqXTacmxL._AC_SL1500_.jpg",
+        "cast" : ["Gene Wilder" , "Richard Pryor"],
+        "genre" : [ "komedie"],
+        "awards" : "Geen nominaties",
+        "writers" : ["Bruce Jay Friedman"],
+        "director" : 
+        {
+            "id" : "DIR-13",
+            "name" : "Sidney Poitier",
+            "birthday" : "1927-02-20",
+            "country" : "Verenigde Staten",
+            "school" : "<UNKNOWN>",
+            "married" : true,
+            "ImageUrl" : "xxx",
+            "immageSource" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sidney_Poitier_1968.jpg/330px-Sidney_Poitier_1968.jpg",
+            "trivia" : " Hij was niet de eerste zwarte acteur die een Oscar kreeg, maar wel de eerste die hem kreeg voor een hoofdrol. Gestorven op 2022-01-06."
+        }
+    }
+]

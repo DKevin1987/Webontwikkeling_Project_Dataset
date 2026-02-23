@@ -28,7 +28,7 @@
     "genre": ["Fantasie", "Adventure", "Familie"],
     "awards": "3 Oscar nominaties",
     "writers": ["J.K. Rowling", "Steve Kloves"],
-    "director": {
+    "director": [{
       "id": "DIR-1",
       "name": "Christopher Joseph Columbus",
       "birthday": "1958-09-10",
@@ -38,7 +38,7 @@
       "imageUrl": "https://github.com/DKevin1987/Webontwikkeling_Project_Dataset/blob/main/assets/directors/ChristopherJoshephColumbus.webp?raw=true",
       "imageSource": "https://i.namu.wiki/i/51eHyBKzuIHwgFLoTAGz5TWk5zGfRbabhJ2Cz6cV7zPJnqg9e5LknKNs3yVftuSsniCg1YvdBiQ7JLc91KF2WZQkeM0FI16rEhr75D5rcAxkGVv3RgzoLuPMQTVDqn0QwV9aIZq0FRh21dot6guxhQ.webp",
       "trivia": "Productiemaatschappij heet 1492 Productions. Is ook producent en scenarioschrijver."
-    }
+    }]
   },
   {
     "id": "MOVIE-2",
@@ -106,7 +106,7 @@
     "genre": ["Komedie"],
     "awards": "geen",
     "writers": ["Ben Garant", "Thomas Lennon"],
-    "director": {
+    "director": [{
       "id": "DIR-4",
       "name": "Shawn Levy",
       "birthday": "1963-06-23",
@@ -116,7 +116,7 @@
       "imageUrl": "https://github.com/DKevin1987/Webontwikkeling_Project_Dataset/blob/main/assets/directors/ShawnLevy.jpg?raw=true",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Shawn_Levy_by_Gage_Skidmore_2.jpg/330px-Shawn_Levy_by_Gage_Skidmore_2.jpg",
       "trivia": "Is tevens ook acteur, filmproducent en scenarioschrijver."
-    }
+    }]
   },
   {
     "id": "MOVIE-4",
@@ -278,7 +278,7 @@
     "genre": ["Fantasie", "Adventure", "Familie"],
     "awards": "6 nominaties, 1 gewonnen.",
     "writers": ["Kurt Wimmer"],
-    "director": {
+    "director": [{
       "id": "DIR-11",
       "name": "David Ayer",
       "birthday": "1968-01-18",
@@ -288,7 +288,7 @@
       "imageUrl": "https://github.com/DKevin1987/Webontwikkeling_Project_Dataset/blob/main/assets/directors/DavidAyer.jpg?raw=true",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/David_Ayer_by_Gage_Skidmore_2.jpg/250px-David_Ayer_by_Gage_Skidmore_2.jpg",
       "trivia": "Is tevens ook filmproducent en screenwriter. Heeft in navy gewerkt als sonar technieker op een duikboot."
-    }
+    }]
   },
   {
     "id": "MOVIE-8",
@@ -316,7 +316,7 @@
     "genre": ["Fantasie", "Adventure", "Familie"],
     "awards": "41 nominaties , 18 gewonnen ",
     "writers": ["David Ayer"],
-    "director": {
+    "director": [{
       "id": "DIR-11",
       "name": "David Ayer",
       "birthday": "1968-01-18",
@@ -326,7 +326,7 @@
       "imageUrl": "https://github.com/DKevin1987/Webontwikkeling_Project_Dataset/blob/main/assets/directors/DavidAyer.jpg?raw=true",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/David_Ayer_by_Gage_Skidmore_2.jpg/250px-David_Ayer_by_Gage_Skidmore_2.jpg",
       "trivia": "Is tevens ook filmproducent en screenwriter. Heeft in navy gewerkt als sonar technieker op een duikboot."
-    }
+    }]
   },
   {
     "id": "MOVIE-9",
@@ -342,7 +342,7 @@
     "genre": ["True Story", "Romantisch", "Drama"],
     "awards": "3 nominaties",
     "writers": ["Dana Canedy"],
-    "director": {
+    "director": [{
       "id": "DIR-12",
       "name": "Denzel Washington",
       "birthday": "1954-12-28",
@@ -352,7 +352,7 @@
       "imageUrl": "https://github.com/DKevin1987/Webontwikkeling_Project_Dataset/blob/main/assets/directors/DenzelWashington.jpg?raw=true",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Denzel_Washington_%2829479254650%29_%28cropped%29.jpg/330px-Denzel_Washington_%2829479254650%29_%28cropped%29.jpg",
       "trivia": "Is tevens ook acteur en filmproducent. Heeft meer dan 45 prijzen gewonnen. Was oo 2e zwarte acteur dat oscor won voor beste acteur in een hoofdrol."
-    }
+    }]
   },
   {
     "id": "MOVIE-10",
@@ -368,7 +368,7 @@
     "genre": ["Komedie"],
     "awards": "Geen nominaties",
     "writers": ["Bruce Jay Friedman"],
-    "director": {
+    "director": [{
       "id": "DIR-13",
       "name": "Sidney Poitier",
       "birthday": "1927-02-20",
@@ -378,6 +378,6 @@
       "imageUrl": "https://github.com/DKevin1987/Webontwikkeling_Project_Dataset/blob/main/assets/directors/SidneyPoitier.jpg?raw=true",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sidney_Poitier_1968.jpg/330px-Sidney_Poitier_1968.jpg",
       "trivia": " Hij was niet de eerste zwarte acteur die een Oscar kreeg, maar wel de eerste die hem kreeg voor een hoofdrol. Gestorven op 2022-01-06."
-    }
+    }]
   }
 ]
